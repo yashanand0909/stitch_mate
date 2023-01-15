@@ -1,2 +1,2 @@
 # stitch_mate
-backend for self serving ETL layer
+Backend for self serving ETL layer
