@@ -1,7 +1,7 @@
 package com.mate.repositories.projections;
 
-import com.dream11.models.enums.NodeStatus;
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.mate.models.enums.NodeStatus;
 import java.time.LocalDateTime;
 import java.util.Map;
 

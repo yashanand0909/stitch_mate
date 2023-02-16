@@ -1,6 +1,6 @@
 package com.mate.models.requests.notification;
 
-import com.dream11.models.slack.Attachment;
+import com.mate.models.slack.Attachment;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

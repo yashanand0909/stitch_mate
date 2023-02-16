@@ -1,8 +1,8 @@
 package com.mate.models.requests.node;
 
-import com.dream11.models.configs.destination.DestinationConfig;
-import com.dream11.models.configs.queryparams.ParamConfig;
-import com.dream11.models.enums.Source;
+import com.mate.models.configs.destination.DestinationConfig;
+import com.mate.models.configs.queryparams.ParamConfig;
+import com.mate.models.enums.Source;
 import java.util.Map;
 import javax.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;

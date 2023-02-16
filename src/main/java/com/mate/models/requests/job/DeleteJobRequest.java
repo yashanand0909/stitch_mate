@@ -1,6 +1,6 @@
 package com.mate.models.requests.job;
 
-import com.dream11.models.requests.BaseRequest;
+import com.mate.models.requests.BaseRequest;
 import lombok.Data;
 
 @Data

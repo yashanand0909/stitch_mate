@@ -1,6 +1,6 @@
 package com.mate.models.requests.filter;
 
-import com.dream11.models.enums.JobStatus;
+import com.mate.models.enums.JobStatus;
 import java.io.Serializable;
 import lombok.AllArgsConstructor;
 import lombok.Data;

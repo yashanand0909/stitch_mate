@@ -1,8 +1,8 @@
 package com.mate.models.entities;
 
-import com.dream11.models.enums.JobStatus;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.mate.models.enums.JobStatus;
 import java.time.LocalDateTime;
 import java.util.List;
 import javax.persistence.CascadeType;

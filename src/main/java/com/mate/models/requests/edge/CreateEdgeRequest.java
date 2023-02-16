@@ -1,6 +1,6 @@
 package com.mate.models.requests.edge;
 
-import com.dream11.models.requests.BaseRequest;
+import com.mate.models.requests.BaseRequest;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

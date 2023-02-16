@@ -17,7 +17,7 @@ public class SwaggerConfiguration extends WebMvcConfigurationSupport {
   public Docket productApi() {
     return new Docket(DocumentationType.SWAGGER_2)
         .select()
-        .apis(RequestHandlerSelectors.basePackage("com.dream11.controllers"))
+        .apis(RequestHandlerSelectors.basePackage("com.mate.controllers"))
         .paths(PathSelectors.any())
         .build();
   }

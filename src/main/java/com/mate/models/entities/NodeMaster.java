@@ -1,8 +1,8 @@
 package com.mate.models.entities;
 
-import com.dream11.models.converter.HashMapConverter;
-import com.dream11.models.enums.Source;
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.mate.models.converter.HashMapConverter;
+import com.mate.models.enums.Source;
 import java.time.LocalDateTime;
 import java.util.Map;
 import javax.persistence.Column;
